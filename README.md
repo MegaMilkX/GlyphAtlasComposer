@@ -13,7 +13,7 @@ fr->Rasterize();
 //After that you still can AddGlyphs() and Rasterize() again. Updated atlas will be composed.
 
 Bitmap bmp = fr->GetBitmapData();
-GlyohInfo gi = fr->GetGlyph(32);
+GlyphInfo gi = fr->GetGlyph(32);
 
 delete fr;
 ```
