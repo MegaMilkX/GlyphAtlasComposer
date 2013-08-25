@@ -9,6 +9,7 @@ int main()
 
 	fr->AddGlyphRange(0, 128);
 	fr->AddGlyphRange(0x410, 0x44f);
+	fr->AddGlyphRange(0x3040, 0x309f);
 	fr->SetSize(64);
 	fr->Rasterize();
 
