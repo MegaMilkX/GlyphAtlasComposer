@@ -1,7 +1,6 @@
 #include "lodepng.h"
 #include <string>
 #include "FontRasterizer.h"
-#include <windows.h>
 
 int main()
 {
