@@ -1,4 +1,4 @@
-font-rasterizer
+GlyphAtlasComposer
 ===============
 ![Alt text](test.png "glyph atlas")
 ```cpp
